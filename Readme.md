@@ -69,7 +69,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/mrwh85/shadowso
 
 大家可以自己视情况修改。
 
-# 如果新的有问题，大家依然可以使用旧的安装方式：
+# 如果新的有问题，大家依然可以使用旧的安装方式：(我装过一次新的，有问题，用旧的装上了)
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/mrwh85/shadowsocks/master/shadowsocksR.sh && bash shadowsocksR.sh
 ```
